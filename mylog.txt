@@ -1,0 +1,12 @@
+2023-09-20 15:17:17 - Proceso completado con éxito. Registros procesados: 0
+2023-09-20 15:17:37 - Proceso completado con éxito. Registros procesados: 0
+2023-09-20 15:17:53 - Proceso completado con éxito. Registros procesados: 0
+2023-09-20 15:20:00 - Proceso completado con éxito. Registros procesados: 0
+2023-09-20 15:21:58 - Error: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-09-20 15:23:21 - Error: Access denied for user 'geasacpe_factura'@'190.236.207.187' (using password: YES)
+2023-09-20 15:24:16 - Error: Access denied for user 'geasacpe_factura'@'190.236.207.187' (using password: YES)
+2023-09-20 15:24:45 - Error: Infracción de la restricción PRIMARY KEY 'PK_Venta202308'. No se puede insertar una clave duplicada en el objeto 'dbo.Venta202308'. El valor de la clave duplicada es (001,                , 00003, B00700000001).
+2023-09-20 15:25:45 - Proceso completado con éxito. Registros procesados: 25
+2023-09-20 15:31:47 - Proceso completado con éxito. Registros procesados: 0
