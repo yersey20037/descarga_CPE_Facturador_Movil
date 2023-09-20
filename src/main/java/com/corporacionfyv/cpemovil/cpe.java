@@ -19,16 +19,16 @@ public class cpe {
 
     public static void main(String[] args) {
         com.corporacionfyv.cpemovil.Logger logger = new com.corporacionfyv.cpemovil.Logger("mylog.txt");
-        String mysqlServer = "70.40.220.114";
-        String mysqlUsername = "geasacpe_factura";
-        String mysqlPassword = "#Facturador123";
-        String mysqlDatabase = "geasacpe_facturacion";
+        String mysqlServer = "";
+        String mysqlUsername = "";
+        String mysqlPassword = "";
+        String mysqlDatabase = "";
 
         // Datos de conexión a SQL Server
-        String sqlServer = "CHRISTYAN-PC\\SQLEXPRESS";
-        String sqlUsername = "zidigital";
-        String sqlPassword = "20512963545";
-        String sqlDatabase = "backoffice_fe";
+        String sqlServer = "";
+        String sqlUsername = "";
+        String sqlPassword = "";
+        String sqlDatabase = "";
 
         Connection mysqlConn = null;
         Connection sqlConn = null;
